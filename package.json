@@ -1,7 +1,7 @@
 {
   "name": "alfred-dexonline",
   "version": "1.0.0",
-  "description": "Alfred 3 workflow to find romanian word definitions",
+  "description": "Alfred 3 workflow to find romanian words definitions",
   "license": "MIT",
   "repository": "andrei_popa/alfred-dexonline",
   "author": {
