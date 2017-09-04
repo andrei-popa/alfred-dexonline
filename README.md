@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # alfred-dexonline
 Alfred workflow for searching romanian words definitions in [dexonline.ro](https://dexonline.ro) dictionary.
 Dexonline.ro is a well-known romanian online dictionary. Word definitions are permanently updated and maintained by contributors. 
@@ -11,5 +9,3 @@ alfred-dexonline uses [alfy](https://github.com/sindresorhus/alfy) and dexonline
 Git clone and install with: `npm install`
 
 <img src="screenshot.gif">
-
->>>>>>> parent of 980ca6a... Update README.md
