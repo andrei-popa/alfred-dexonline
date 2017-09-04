@@ -73,7 +73,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>Asteapta..</string>
+				<string>Așteaptă...</string>
 				<key>script</key>
 				<string>query=$1
 
@@ -85,7 +85,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Cauta in DEX</string>
+				<string>Caută în DEX</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
