@@ -6,8 +6,8 @@ This Alfred workflow makes it easy to search Romanian words and instantly find t
 
 alfred-dexonline uses [alfy](https://github.com/sindresorhus/alfy) and dexonline.ro API. 
 
-[Download the latest version](https://github.com/andrei-popa/alfred-dexonline/releases/tag/v1.0.2), for Alfred v3 and macOS
+[Download the latest version](https://github.com/andrei-popa/alfred-dexonline/releases/tag/v1.0.2), for Alfred v3 and macOS,
 
-Git clone and install with: `npm install`
+or `git clone` and install with: `npm install`
 
 <img src="screenshot.gif">
